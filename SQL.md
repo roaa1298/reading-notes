@@ -43,9 +43,9 @@
   8. NOT IN (…) 	**(String does not exist in a list)**  
    
 - **DISTINCT** : is a keyword we use it to discard rows that have a duplicate column value.  
- > SELECT DISTINCT column, another_column, …  
- > FROM mytable  
- > WHERE condition(s);  
+  > SELECT DISTINCT column, another_column, …  
+  > FROM mytable  
+  > WHERE condition(s);  
 - SQL provides a way to sort the results by a given column in ascending or descending order using the **ORDER BY** clause.  
   > SELECT column, another_column, …  
   > FROM mytable  
@@ -97,6 +97,7 @@
   >  another_column DataType TableConstraint DEFAULT default_value,  
   >  …  
   > );  
+- Table datatypes and costraints : [datatypes and costraints](https://sqlbolt.com/lesson/creating_tables)
 - **table schema**: is defined by The structure of the new table which defines a series of columns. Each column has a name, the type of data allowed in that column, an optional table constraint on values being inserted, and an optional default value.  
 - If there already exists a table with the same name, the SQL implementation will usually throw an error, so to suppress the error and skip creating a table if one exists, you can use the **IF NOT EXISTS clause**.  
 - SQL provides a way for us to update our corresponding tables and database schemas by using the **ALTER TABLE** statement to add, remove, or modify columns and table constraints.  
@@ -110,3 +111,7 @@
 - If you need to rename the table itself, you can also do that using the RENAME TO clause of the statement.  
    > ALTER TABLE mytable  
    > RENAME TO new_table_name;  
+- If we want want to remove an entire table including all of its data and metadata, we can use the **DROP TABLE** statement:  
+   > DROP TABLE IF EXISTS mytable;  
+- The database may throw an error if the specified table does not exist, and to suppress that error, you can use the **IF EXISTS** clause.  
+- ***IF YOU WANT TO READ MORE INFORMATION ABOUT SQL AND DATABASE AND DO SOME EXERCISES SEE THIS WEBSITE [SQL](https://sqlbolt.com/) .***
