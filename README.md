@@ -13,4 +13,7 @@ in major of computer science. i live in jordan-irbid.
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
+  -  [Terminal practice](https://github.com/roaa1298/reading-notes/blob/main/TerminalPractice.md)  
+  -  [SQL](https://github.com/roaa1298/reading-notes/blob/main/SQL.md)  
+  -  [mindset growth](https://github.com/roaa1298/reading-notes/blob/main/Mindset-Growth.md)
 
