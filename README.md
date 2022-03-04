@@ -17,3 +17,8 @@ in major of computer science. i live in jordan-irbid.
   -  prep : [SQL](https://roaa1298.github.io/reading-notes/SQL)  
   -  prep : [mindset growth](https://roaa1298.github.io/reading-notes/Mindset-Growth)
 
+  | class       | Link |
+  | ----------- | ----------- |
+  | class1      | ![class1: java basics](https://roaa1298.github.io/reading-notes/java-basics)       |
+  
+
