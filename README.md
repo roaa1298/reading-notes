@@ -21,6 +21,7 @@ in major of computer science. i live in jordan-irbid.
   | ----------- | ----------- |
   | class1      | [class1: java basics](https://roaa1298.github.io/reading-notes/java-basics)       |
   | class2      | [class2: imports](https://roaa1298.github.io/reading-notes/Read2)       |
+  | class3      | [class3: Maps, primitives, File I/O](https://roaa1298.github.io/reading-notes/Read3)       |
   | class9      | [class9: WRRC and java](https://roaa1298.github.io/reading-notes/Read9)       |
   
 
