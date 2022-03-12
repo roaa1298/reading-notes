@@ -1,0 +1,12 @@
+### Java Primitives versus Objects
+
+In Java, there are two types: primitives like int and reference types like Integer. As wrapper classes, reference types are immutable, which means their state can't change once the object is built, and they can't be inherited from. The act of converting a primitive type to a reference type is known as autoboxing, whereas the process of converting a reference type to a primitive type is known as unboxing. Memory Footprint of a Single Item The RAM is affected by basic type variables. boolean – 1 bit, byte – 8 bits, short, char – 16 bits, int, float – 32 bits, long, double – 64 bits, the reference type are objects on the heap that are regarded somewhat slow to access, whereas the primitive type variables in the stack are considered quite rapid to acquire. The memory is affected by reference type variables Boolean – 128 bits, Byte – 128 bits. Short, Character – 128 bits, Integer, Float – 128 bits, Long, Double – 192 bits. Arrays take up a lot more memory and are also dependent on the array size. The size of the array in terms of memory is determined by the number of items, long, double: m(s) = 128 + 64, short, char: m(s) = 128 + 64 [s/4], byte, boolean: m(s) = 128 + 64 [s/8], the rest: m(s) = 128 + 64 [s/2]. Many factors influence the performance of Java code, but one of the most significant is the kind of data we use (primitive or reference), which determines where they are kept. The usage of primitive types is preferred, however there are several limitations in contemporary Java that must be considered when deciding which type to employ.
+### Exceptions in Java
+
+An exception is an occurrence during the execution of a program that causes the program's regular flow to be disrupted. The call stack is a collection of methods that were called in order to find the method where the problem occurred. The block of code where the incident happened is known as an exception handler.
+### The Catch or Specify Requirement
+
+A try statement that catches the exception or a handler for the exception must be wrapped in code that may throw specific exceptions. A method with a throws clause that specifies the exception.
+### Scanning
+
+We need to end the scanner to signify that the user is finished with the underlying stream. Scanner also supports tokens for all of the Java language's primitive kinds. Because thousands separators and decimal symbols are region specific, we must indicate the locale when utilizing numeric values that employ thousands separators.
