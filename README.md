@@ -20,5 +20,6 @@ in major of computer science. i live in jordan-irbid.
   | class       | Link |
   | ----------- | ----------- |
   | class1      | [class1: java basics](https://roaa1298.github.io/reading-notes/java-basics)       |
+  | class9      | [class9: WRRC and java](https://roaa1298.github.io/reading-notes/Read9)       |
   
 
