@@ -24,6 +24,9 @@ in major of computer science. i live in jordan-irbid.
   | class3      | [class3: Maps, primitives, File I/O](https://roaa1298.github.io/reading-notes/Read3)       |
   | class4      | [class4: oop](https://roaa1298.github.io/reading-notes/Read4)       |
   | class5      | [class5: Linked List](https://roaa1298.github.io/reading-notes/Read5)       |
+  | class6      | [class6: Inheritance and interfaces](https://roaa1298.github.io/reading-notes/Read6)       |
+  | class7      | [class7: Inheritance2](https://roaa1298.github.io/reading-notes/Read7)       |
+  | class8      | [class8: OO Design](https://roaa1298.github.io/reading-notes/Read8)       |
   | class9      | [class9: WRRC and java](https://roaa1298.github.io/reading-notes/Read9)       |
   
 
