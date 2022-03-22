@@ -31,5 +31,6 @@ in major of computer science. i live in jordan-irbid.
   | class10      | [class10: Stacks and Queues](https://roaa1298.github.io/reading-notes/Read10)       |
   | class11      | [class11: Spring](https://roaa1298.github.io/reading-notes/Read11)       |
   | class12      | [class12: Spring RESTful Routing & Static Files](https://roaa1298.github.io/reading-notes/Read12)       |
+  | class13      | [class13: Relationships in Spring Data REST](https://roaa1298.github.io/reading-notes/Read13)       |
   
 
