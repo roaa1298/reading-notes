@@ -33,5 +33,6 @@ in major of computer science. i live in jordan-irbid.
   | class12      | [class12: Spring RESTful Routing & Static Files](https://roaa1298.github.io/reading-notes/Read12)       |
   | class13      | [class13: Relationships in Spring Data REST](https://roaa1298.github.io/reading-notes/Read13)       |
   | class15      | [class15: Trees](https://roaa1298.github.io/reading-notes/Read15)       |
+  | class16      | [class16: Spring Authentication](https://roaa1298.github.io/reading-notes/Read16)       |
   
 
