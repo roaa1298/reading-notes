@@ -36,5 +36,6 @@ in major of computer science. i live in jordan-irbid.
   | class16      | [class16: Spring Authentication](https://roaa1298.github.io/reading-notes/Read16)       |
   | class17      | [class17: Spring Authorization](https://roaa1298.github.io/reading-notes/Read17)       |
   | class18      | [class18: Web App Security](https://roaa1298.github.io/reading-notes/Read18)       |
+  | class19      | [class19: Purely functional programming](https://roaa1298.github.io/reading-notes/Read19)       |
   
 
