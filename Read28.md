@@ -156,5 +156,5 @@
       
 ## Resources  
 - [recyclerview-example](https://stackoverflow.com/questions/40584424/simple-android-recyclerview-example)
-- [recyclerview-example](https://www.geeksforgeeks.org/android-recyclerview/)
+- [recyclerview](https://www.geeksforgeeks.org/android-recyclerview/)
 
