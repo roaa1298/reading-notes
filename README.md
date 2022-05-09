@@ -40,5 +40,6 @@ in major of computer science. i live in jordan-irbid.
   | class26      | [class26: Android fundamentals](https://roaa1298.github.io/reading-notes/Read26)       |
   | class27      | [class27: Intents, Activities, and SharedPreferences](https://roaa1298.github.io/reading-notes/Read27)       |
   | class28      | [class28: RecyclerView in Android](https://roaa1298.github.io/reading-notes/Read28)       |
+  | class29      | [class29: Rooms](https://roaa1298.github.io/reading-notes/Read29)       |
   
 
