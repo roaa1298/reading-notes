@@ -43,5 +43,6 @@ in major of computer science. i live in jordan-irbid.
   | class29      | [class29: Rooms](https://roaa1298.github.io/reading-notes/Read29)       |
   | class30      | [class30: Hashtables](https://roaa1298.github.io/reading-notes/Read30)       |
   | class31      | [class31: AWS Amplify](https://roaa1298.github.io/reading-notes/Read31)       |
+  | class32      | [class32: Serverless and Amplify](https://roaa1298.github.io/reading-notes/Read32)       |
   
 
