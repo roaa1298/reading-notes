@@ -55,4 +55,8 @@
    ```
    completableFuture.complete("Future's Result")
    ```
-- All the clients waiting for this Future will get the specified result. And, Subsequent calls to completableFuture.complete() will be ignored.
+- All the clients waiting for this Future will get the specified result. And, Subsequent calls to completableFuture.complete() will be ignored.  
+
+## Resources  
+- [One-to-many Connections](https://www.baeldung.com/java-completablefuture)
+- [CompletableFuture](https://www.callicoder.com/java-8-completablefuture-tutorial/)
