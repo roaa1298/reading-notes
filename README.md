@@ -46,5 +46,6 @@ in major of computer science. i live in jordan-irbid.
   | class32      | [class32: Serverless and Amplify](https://roaa1298.github.io/reading-notes/Read32)       |
   | class33      | [class33: GraphQL @connection](https://roaa1298.github.io/reading-notes/Read33)       |
   | class34      | [class34: Monetization](https://roaa1298.github.io/reading-notes/Read34)       |
+  | class35      | [class35: Graphs](https://roaa1298.github.io/reading-notes/Read35)       |
   
 
