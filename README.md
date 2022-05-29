@@ -48,5 +48,6 @@ in major of computer science. i live in jordan-irbid.
   | class34      | [class34: Monetization](https://roaa1298.github.io/reading-notes/Read34)       |
   | class35      | [class35: Graphs](https://roaa1298.github.io/reading-notes/Read35)       |
   | class36      | [class36: Cognito](https://roaa1298.github.io/reading-notes/Read36)       |
+  | class37      | [class37: s3 storage](https://roaa1298.github.io/reading-notes/Read37)       |
   
 
