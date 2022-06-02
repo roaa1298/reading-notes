@@ -49,6 +49,6 @@ in major of computer science. i live in jordan-irbid.
   | class35      | [class35: Graphs](https://roaa1298.github.io/reading-notes/Read35)       |
   | class36      | [class36: Cognito](https://roaa1298.github.io/reading-notes/Read36)       |
   | class37      | [class37: s3 storage](https://roaa1298.github.io/reading-notes/Read37)       |
-  | class39      | [class39: s3 storage](https://roaa1298.github.io/reading-notes/Read39)       |
+  | class39      | [class39: Location](https://roaa1298.github.io/reading-notes/Read39)       |
   
 
