@@ -51,5 +51,6 @@ in major of computer science. i live in jordan-irbid.
   | class37      | [class37: s3 storage](https://roaa1298.github.io/reading-notes/Read37)       |
   | class38      | [class38: Intents](https://roaa1298.github.io/reading-notes/Read38)       |
   | class39      | [class39: Location](https://roaa1298.github.io/reading-notes/Read39)       |
+  | class41      | [class41: Amazon Pinpoint and Amazon Polly](https://roaa1298.github.io/reading-notes/Read41)       |
   
 
