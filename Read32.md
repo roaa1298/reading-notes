@@ -13,8 +13,8 @@
    - Oracle Fn Project
    - Kubeless
 
-  ![cloud_providers](cloud_providers.jpeg)   
-  ![serverless](serverless.jpeg)   
+  ![cloud_providers](images/cloud_providers.jpeg)   
+  ![serverless](images/serverless.jpeg)   
   
 ## Functions as a Service (FaaS)  
 - FaaS is an implementation of Serverless architectures where engineers can deploy an individual function or a piece of business logic.  
@@ -37,4 +37,4 @@
    - Security Token Service (STS) — generates temporary AWS credentials (API key and secret key) for users of the application. These temporary credentials are used by the client application to invoke the AWS API (and thus invoke Lambda).  
 
 
-   ![serverless](serverless2.png)
+   ![serverless](images/serverless2.png)

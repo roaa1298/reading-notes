@@ -25,4 +25,4 @@
              
 - Boot Up the Application : you can run your app again and visit the home page at http://localhost:8080. Now, instead of the home page, you should be redirected to login with GitHub.    
 
-![auth](auth.png)
+![auth](images/auth.png)

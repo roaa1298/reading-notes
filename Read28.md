@@ -6,7 +6,7 @@
    - The ViewHolder: The ViewHolder is a java class that stores the reference to the card layout views that have to be dynamically modified during the execution of the program by a list of data obtained either by online databases or added in some other way.  
    - The Data Class: The Data class is a custom java class that acts as a structure for holding the information for every item of the RecyclerView.  
 
-![recyclerview](recyclerview.jpeg)  
+![recyclerview](images/recyclerview.jpeg)  
 
 - To implement a recyclerview to our application we need apply these steps with an example codes:  
    - add dependencies to gradle  

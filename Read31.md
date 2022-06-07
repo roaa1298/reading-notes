@@ -3,7 +3,7 @@
 - With Amplify, you can configure a web or mobile app backend, connect your app in minutes, visually build a web frontend UI, and easily manage app content outside the AWS console. 
 - With amplify you can enable the data storage authentication file storage host your app or even add AI or ML to your front end web or mobile application.
 
-![aws](aws.png)  
+![aws](images/aws.png)  
 
 - AWS Amplify includes a wide variety of open-source libraries and drag-and-drop UI components developers can use as building blocks for their apps. It also has a built-in CLI you can use to build your backend. And for an additional fee, AWS Amplify Console provides web hosting services for your app.  
 - AWS Amplify has components for:  
@@ -18,6 +18,6 @@
 
 - The framework supports iOS, Android, Web, and React Native mobile apps, and React, Ionic, Angular, and vue.js for web apps.  
 
-![usage](usage.webp)  
+![usage](images/usage.webp)  
 
 

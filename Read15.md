@@ -11,7 +11,7 @@
 - Leaf: a node that does not have any children.  
 - Height: The height of a tree is the number of edges from the root to the furthest leaf.  
    
-![BinaryTree1](BinaryTree1.PNG)
+![BinaryTree1](images/BinaryTree1.PNG)
 
 ### Traversals  
 - Traversing a tree allows us to search for a node, print out the contents of a tree.  
@@ -23,7 +23,7 @@
 
    - Breadth First: iterates through the tree by going through each level of the tree node-by-node.  
       
-     ![tree](tree.jpg)  
+     ![tree](images/tree.jpg)  
      
      - K-ary Trees When the Nodes can have more than 2 child nodes, it called a K-ary Tree, K is refering to the maximum number of children that each Node is able to have.  
 ### Traversing  
@@ -33,5 +33,5 @@
 - we use breadth first traversal. During the traversal, we find the first node that does not have all it’s children filled, and insert the new node as a child. We fill the child slots from left to right.  
     - A “perfect” binary tree is one where every non-leaf node has exactly two children. The maximum width for a perfect binary tree, is 2^(h-1), where h is the height of the tree. Height can be calculated as log n, where n is the number of nodes.  
           
- ![tree2](tree2.jpg)
+ ![tree2](images/tree2.jpg)
 

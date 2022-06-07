@@ -14,13 +14,13 @@
 
    - LIFO Last In First Out This means that the last item added to the stack will be the first item popped out of the stack.  
 
-![stack](stack1.PNG)
+![stack](images/stack1.PNG)
 
 ### Push O(1)
 
 - Pushing a Node onto a stack will always be an O(1) operation  
 
-![pushStack](pushStack1.PNG)
+![pushStack](images/pushStack1.PNG)
 
     ```
     ALOGORITHM push(value)

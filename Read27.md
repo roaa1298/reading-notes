@@ -7,7 +7,7 @@
 - The current activity is destroyed when the user hits the Back button, and the prior activity restarts (the previous state of its UI is restored).  
 -  The activities in the stack are only pushed onto and popped off the stack—pushed into the stack when the current activity starts it and popped off when the user exits it using the Back button. 
  
- ![back_stack](back_stack.png)  
+ ![back_stack](images/back_stack.png)  
  
  - If the user presses Back repeatedly, each activity in the stack is popped off to show the one before it, until the user returns to the Home screen, The task is no longer active after all actions have been removed from the stack.  
  --------  
@@ -18,7 +18,7 @@
  - there is an example to explain this:
    -  Assume that the current task (Task A) contains three activities in its stack, two of which are underneath the current activity. The user hits the Home button, then opens the app launcher and selects a new app. Task A is pushed to the background when the Home screen appears. When a new app is launched, the system creates a task (Task B) for it, which has its own set of activities. After interacting with that app, the user goes back to Home and picks the app that launched Task A in the first place. Task A now appears in the forefront, with all three activities in its stack intact and the activity at the top of the stack resumed. The user may now return to Task B by navigating to Home and choosing the app icon that initiated the task (or choosing the app’s task from the Recents page).  
  
- ![background_task](background_task.png)
+ ![background_task](images/background_task.png)
  
  ----------
  

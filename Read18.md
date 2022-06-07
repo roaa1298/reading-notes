@@ -19,7 +19,7 @@
 - A typical example of such a many-to-many relationship is the relationship between students and courses. A student can enroll in multiple courses and a course can also have multiple students, thus forming a many-to-many relationship.
 - To model the above relationship in the database, you need to create three tables, one each for both students and courses, and another one for holding relationship keys, as shown below in the Entity-Relationship (ER) diagram:  
  
-   ![manyToMany](manyToMany.webp)  
+   ![manyToMany](images/manyToMany.webp)  
    
 - students_courses is a join table that contains two foreign keys, student_id and course_id, to reference both students and courses database tables. Both these foreign keys also act as a composite primary key for the students_courses table.  
 

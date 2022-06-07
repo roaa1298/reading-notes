@@ -20,7 +20,7 @@
 - After getting DAOs, through DAOs it accesses the entities from the Database Tables.   
 - And then it can perform the operations on those entities and persist back the changes to the Database.  
 
-![room-architecture](room_architecture.png)  
+![room-architecture](images/room_architecture.png)  
 
 ### Steps to implement Room Database in Android Application  
 - **Adding the required dependencies**   

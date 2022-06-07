@@ -9,7 +9,7 @@
 
 ## How it works
 
-![Product-page-diagram_Amazon-Pinpoint-with-Journeys](Product-page-diagram_Amazon-Pinpoint-with-Journeys.png)
+![Product-page-diagram_Amazon-Pinpoint-with-Journeys](images/Product-page-diagram_Amazon-Pinpoint-with-Journeys.png)
 
 ## Use cases  
 - Marketing messages : Promote your products and services with basic templates or highly-personalized messages, including special offers, newsletters, and other engaging content.

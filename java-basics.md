@@ -93,7 +93,7 @@
  - #### Operators  
     -  Operators are special symbols that perform specific operations on one, two, or three operands, and then return a result.  
     
-      ![operators](operators.png)  
+      ![operators](images/operators.png)  
  - #### Blocks  
     - A block is a group of zero or more statements between balanced braces and can be used anywhere a single statement is allowed.  
       ```
