@@ -54,5 +54,6 @@ in major of computer science. i live in jordan-irbid.
   | class41      | [class41: Amazon Pinpoint and Amazon Polly](https://roaa1298.github.io/reading-notes/Read41)       |
   | class42      | [class42: Google AdMob](https://roaa1298.github.io/reading-notes/Read42)       |
   | class42      | [class42: Ethics](https://roaa1298.github.io/reading-notes/Read42_ethics)       |
+  | class43      | [class43: Open-Source Software Contribution](https://roaa1298.github.io/reading-notes/Read43)       |
   
 
